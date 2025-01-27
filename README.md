@@ -1,19 +1,21 @@
 
-git clone https://github.com/username/website-saya.git
-cd tyuere
-mkdir assets
-touch index.html assets/styles.css assets/scripts.js
-<!DOCTYPE html>
+Website ini gabut ini ya jangan dinaggap serius 
+ponco jaya ponco  pentol kabul
+
+
+ini ya link nya
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website Saya</title>
+    <Website pribadi gabut>
+    <Website pribadi gabut>
     <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
     <header>
-        <h1>Selamat Datang di Website Saya</h1>
+        <h1>PONCO MAMAD BOTAL</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -33,7 +35,7 @@ touch index.html assets/styles.css assets/scripts.js
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>Kontak kami melalui email: <a href="nuyt@gmail.com">info@example.com</a></p>
+            <p>Kontak kami melalui email: <a href="nuyt@gmail.com">info@ponco mamadbotak.com</a></p>
         </section>
     </main>
     <footer>
